@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="title">Sei un fan di Star Wars o di Star Trek?</string>
+    <string name="start">Attivare</string>
+    <string name="next">Prossimo</string>
+    <string name="finish">Fine</string>
+    <string name="info">Devi rispondere alla domanda per capire che tipo di fan sei</string>
+    <string name="title_st">Sei un fan di Star Trek!</string>
+    <string name="title_sw">Sei un fan di Star Wars!</string>
+    <string name="title_bob">Sei un fan equilibrato!</string>
+    <string name="type_st">fan di Star Trek</string>
+    <string name="type_sw">fan di Star Wars</string>
+    <string name="type_bob">fan equilibrato</string>
+    <string name="result_st">Sei pronto per frequentare l\'accademia della flotta stellare! Poi probabilmente ti imbarcherai in una missione d\'esplorazione di nuovi mondi, alla ricerca di altre forme di vita e di civiltà, fino ad arrivare laddove nessun uomo è mai giunto prima.</string>
+    <string name="result_sw">Molto tempo fa, in una galassia lontana lontana, probabilmente saresti diventato un maestro jedi o un potente sith, ora però quei tempi sono finiti e tutto è cambiato. Il futuro deve essere ancora scritto... che la forza sia con te!</string>
+    <string name="result_bob">"Sei un esploratore e sei desideroso di imparare ogni cosa sulle altre culture. Il problema è che non puoi nascondere il tuo atteggiamento da canaglia. Per questo hai nemici e amanti in ogni porto... ergh, pianeta. "</string>
+    <string name="name_share">Inserisci il tuo nome</string>
+    <string name="text_mail">Ciao!\n\nSono %1$s e sono un %2$s!.\nVuoi sapere che tipo di fan sei?\nScarica questa app!\nLINK\n\nCiao!</string>
+    <string name="info_result">Per favore, inserisci il tuo nome</string>
+    <string name="share">Condividi</string>
+
+    <string name="question1">Se ti trovi improvvisamente in un altro universo, cosa fai?</string>
+    <string name="answer1a">Vai a esplorare strani nuovi mondi, a cercare nuove forme di vita e nuove civiltà.</string>
+    <string name="answer1b">Costruisci un nuovo impero galattico.</string>
+    <string name="answer1c">Vai a visitare un pianeta e ti immergiti in una diversa cultura aliena.</string>
+
+    <string name="question2">Non tutte le forme di vita sono amichevole. Scegli la tua arma:</string>
+    <string name="answer2a">La mia mente è la mia arma.</string>
+    <string name="answer2b">Un\'arma elegante per un\'era più civilizzata.</string>
+    <string name="answer2c">Qualunque cosa faccia \"pewpew\" per me va bene</string>
+
+    <string name="question3">Che tipo di studente sei?</string>
+    <string name="answer3a">Studioso e diligente, sempre chiuso nella tua cupola di conoscenze.</string>
+    <string name="answer3b">Non hai avuto il tempo di studiare. Dovevi sempre andare alla stazione di Tosche.</string>
+    <string name="answer3c">Ribelle e estroverso, ti sei imbucato in ogni festa.</string>
+
+    <string name="question4">Hai ricevuto una maglietta rossa da un amico.</string>
+    <string name="answer4a">Inizi a fare il tuo testamento.</string>
+    <string name="answer4b">La adoro, sta davvero bene con un altro vestito che ho usato in un\'occasione più formale.</string>
+    <string name="answer4c">Preferisco altri colori, come il blu o il marrone.</string>
+
+    <string name="question5">Di cosa hai assolutamente bisogno sulla tua astronave?</string>
+    <string name="answer5a">Un nucleo a curvatura.</string>
+    <string name="answer5b">Mandibole anteriori, montacarichi, lanciamissili e cannone laser quadrupli.</string>
+    <string name="answer5c">Un essere altamente logico e intelligente che ti aiuterà a salvare la situazione.</string>
+
+    <string name="question6">Come usi il phaser?</string>
+    <string name="answer6a">L\'ho impostato su stordimento.</string>
+    <string name="answer6b">Sparo per primo.</string>
+    <string name="answer6c">Lo uso solo se non ci sono altri modi.</string>
+
+    <string name="question7">Quando sei innamorato:</string>
+    <string name="answer7a">Sono completamente pazzo, riconosco a malapena i miei amici e la mia famiglia.</string>
+    <string name="answer7b">Lo so.</string>
+    <string name="answer7c">Mi sono innamorato poche volte e di solito è un amore platonico.</string>
+    <string name="reset">Reset</string>
+    <string name="question8">Segna tutti quelli che ti piacciono:</string>
+    <string name="answer8a">Serie TV di Star Trek (TOS, TAS, TNG, VOY, DS9, ENT, DIS)</string>
+    <string name="answer8b">Film di Star Trek (1-6)</string>
+    <string name="answer8c">Film di Star Trek (7-10)</string>
+    <string name="answer8d">Film di Star Trek (Reboot)</string>
+    <string name="answer8e">Serie animate di Star Wars (The Clone Wars, Rebels, Forces of Destiny)</string>
+    <string name="answer8f">Film di Star Wars (Trilogia originale)</string>
+    <string name="answer8g">Film di Star Wars (Trilogia prequel)</string>
+    <string name="answer8h">Film di Star Wars (Trilogia sequel)</string>
+</resources>

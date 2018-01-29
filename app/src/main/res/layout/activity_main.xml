@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.quizapp.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/space" />
+
+    <TextView
+        style="@style/Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <EditText
+            android:id="@+id/editText_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="@dimen/margin8"
+            android:hint="@string/name_share"
+            android:inputType="text"
+            android:maxLength="30"
+            android:textAlignment="center" />
+
+        <Button
+            style="@style/Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editText_name"
+            android:layout_centerHorizontal="true"
+            android:onClick="start"
+            android:text="@string/start" />
+
+    </RelativeLayout>
+
+    <TextView
+        style="@style/Credit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/credit" />
+
+</RelativeLayout>

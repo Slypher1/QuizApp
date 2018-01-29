@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name" translatable="false">QuizApp</string>
+
+    <!-- text of app -->
+    <string name="title">Are you a star wars fan or a star trek fan?</string>
+    <string name="start">Engage</string>
+    <string name="credit" translatable="false">Project 3\nUdacity\n2018</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="info">You have to answer to understand what a fan you are</string>
+    <string name="title_st">You are a star trek fan!</string>
+    <string name="title_sw">You are a star wars fan!</string>
+    <string name="title_bob">You are a balanced fan!</string>
+    <string name="type_st">Star Trek fan</string>
+    <string name="type_sw">Star Wars fan</string>
+    <string name="type_bob">balanced fan</string>
+    <string name="result_st">You\'re ready to enter the Starfleet Academy! Later you\'ll probably be assigned to a starship to explore strange new worlds, searching other life forms and new civilization, to boldly go where no man has gone before.</string>
+    <string name="result_sw">Long time ago, in a galaxy far far away you probably would\'ve become a Jedi master or a powerful Sith. Those times are ended now, everything\'s changed, the future is still to be written….may the force be with you!</string>
+    <string name="result_bob">You\'re an explorer and eager to learn about other cultures. The problem is  you cannot hide your scoundrel attitude, thus you\'ve enemies and lovers in every harbour... ergh, planet!</string>
+    <string name="name_share">Input your name</string>
+    <string name="text_mail">Hi!\n\nI\'m %1$s and i\'m a %2$s!\nWould you like to know what a fan you are?\nDownload this app!\nLINK\n\nBye!</string>
+    <string name="info_result">Please, insert your name</string>
+    <string name="share">Share</string>
+    <string name="reset">Reset</string>
+
+    <!-- Questions and answers -->
+    <string name="question1">If you suddenly find yourself in another universe, what will you do?</string>
+    <string name="answer1a">Go explore strange new worlds, to seek out new life and civilization.</string>
+    <string name="answer1b">Build a new galactic empire.</string>
+    <string name="answer1c">Go planet hopping and immerse myself in different alien culture.</string>
+
+    <string name="question2">Not all lifeforms are friendly. Choose your weapon:</string>
+    <string name="answer2a">My mind is my weapon.</string>
+    <string name="answer2b">An elegant weapon for a more civilized age.</string>
+    <string name="answer2c">Anything that goes \"pewpew\" is fine with me.</string>
+
+    <string name="question3">What type of student were you?</string>
+    <string name="answer3a">Dedicated and studious, in your own skill dome.</string>
+    <string name="answer3b">You didn\'t have time to study. You always had to go to Tosche station.</string>
+    <string name="answer3c">Rebellious and outgoing, you crashed in every party.</string>
+
+    <string name="question4">You receive a red shirt from a friend:</string>
+    <string name="answer4a">You start making your will.</string>
+    <string name="answer4b">I love it, it really goes well with another dress I used in a more formal occasion.</string>
+    <string name="answer4c">I prefer other colors, like blue or brown...</string>
+
+    <string name="question5">What do you absolutely need on your spaceship?</string>
+    <string name="answer5a">A warp core.</string>
+    <string name="answer5b">Front mandibles, freight elevator, missile launcher and quad laser cannon.</string>
+    <string name="answer5c">A higly logical and clever being that will help you save the day.</string>
+
+    <string name="question6">How do you use your phaser?</string>
+    <string name="answer6a">I set it to stunn.</string>
+    <string name="answer6b">I shoot first.</string>
+    <string name="answer6c">I use it only if there are no other ways.</string>
+
+    <string name="question7">When you\'re in love:</string>
+    <string name="answer7a">It\'s a complete madness, I hardly recognize my friends and family.</string>
+    <string name="answer7b">I know.</string>
+    <string name="answer7c">I barely fall in love and most of the time is platonic.</string>
+
+    <string name="question8">Mark all the ones you like:</string>
+    <string name="answer8a">Star Trek TV series (TOS, TAS, TNG, VOY, DS9, ENT, DIS)</string>
+    <string name="answer8b">Star Trek Movies (1-6)</string>
+    <string name="answer8c">Star Trek Movies (7-10)</string>
+    <string name="answer8d">Star Trek Movies (Reboot)</string>
+    <string name="answer8e">Star Wars Animated series (The Clone Wars, Rebels, Forces of Destiny)</string>
+    <string name="answer8f">Star Wars Movies (original trilogy)</string>
+    <string name="answer8g">Star Wars Movies (prequel trilogy)</string>
+    <string name="answer8h">Star Wars Movies (sequel trilogy)</string>
+
+</resources>
