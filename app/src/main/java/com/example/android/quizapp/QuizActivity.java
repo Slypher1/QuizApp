@@ -199,6 +199,7 @@ public class QuizActivity extends AppCompatActivity {
 
         if (lastQuestion)
         {
+            //restore checkBox's state
             for (int i=0; i<TOTAL_CHECKBOX; i++)
             {
                 checkBoxAnswer[i].setChecked(stateCheckBox[i]);
