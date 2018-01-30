@@ -13,4 +13,4 @@ Features:
 
 Screenshot:
 
-<img src="https://github.com/Slypher1/QuizApp/blob/master/screenshot/PJ3-1.JPG" width="115" height="225">
+<img src="https://github.com/Slypher1/QuizApp/blob/master/screenshot/PJ3-1.JPG" width="160" height="300">
