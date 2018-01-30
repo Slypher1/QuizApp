@@ -12,4 +12,5 @@ Features:
 <li>The app is localized in 3 languages: English (default), Italian and Spanish.</li>
 
 Screenshot:
-<img src="https://github.com/Slypher1/QuizApp/blob/master/screenshot/PJ3-1.JPG">
+
+<img src="https://github.com/Slypher1/QuizApp/blob/master/screenshot/PJ3-1.JPG" style="width:115px;height:250px;">
