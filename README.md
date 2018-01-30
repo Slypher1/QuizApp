@@ -12,4 +12,4 @@ Features:
 <li>The app is localized in 3 languages: English (default), Italian and Spanish.</li>
 
 Screenshot:
-<img src="./screenshot/PJ3-1.jpg" alt="Mountain View">
+<img src="./screenshot/PJ3-1.jpg">
