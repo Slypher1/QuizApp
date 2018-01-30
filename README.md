@@ -26,3 +26,4 @@ Screenshot:
 <img src="https://github.com/Slypher1/QuizApp/blob/master/screenshot/PJ3-R1.JPG" width="160" height="320">
 <img src="https://github.com/Slypher1/QuizApp/blob/master/screenshot/PJ3-R2.JPG" width="160" height="320">
 <img src="https://github.com/Slypher1/QuizApp/blob/master/screenshot/PJ3-R3.JPG" width="160" height="320">
+<img src="https://github.com/Slypher1/QuizApp/blob/master/screenshot/mail.png" width="160" height="320">
