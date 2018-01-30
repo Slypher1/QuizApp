@@ -10,3 +10,6 @@ Features:
 <li>The QuizActivity checks that there is an answer to each question.</li>
 <li>The app gives the possibility to send an email with the result of the quiz and the link to the app.(the link is not active because the app is not on the playstore)</li>
 <li>The app is localized in 3 languages: English (default), Italian and Spanish.</li>
+
+Screenshot:
+<img src="./screenshot/PJ3-1.jpg" alt="Mountain View">
